@@ -5,7 +5,7 @@ This project builds a machine learning pipeline to predict the next-day directio
 The objective is to demonstrate feature engineering, probability-based decision making, and proper model evaluation, rather than to outperform buy-and-hold returns.
 
 Data & Features
-- Daily S&P 500 OHLCV data retrieved via yfinance
+- Daily S&P 500 data retrieved via yfinance
 - Engineered features include:
   - Overnight returns (close-to-open gaps)
   - Rolling price ratios, trends, and volatility across multiple horizons
