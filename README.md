@@ -1,1 +1,2 @@
 This project explores the use of machine learning to predict the next-day direction of the S&P 500 using historical market data. It builds an end-to-end pipeline that includes data collection, time-series feature engineering, model training, and evaluation using a rolling backtesting framework to avoid look-ahead bias. The focus of the project is on applying practical modeling techniques and realistic evaluation methods to short-term market direction prediction. 
+Note: Results reflect a snapshot of historical data at the time the analysis was conducted.
